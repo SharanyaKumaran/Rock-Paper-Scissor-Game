@@ -71,4 +71,4 @@ This project is open-source and available under the MIT License.
 
 ## Author
 
-Developed by [Sharanya Kumaran](https://github.com/SharanyaKumaran).
+Developed by [Sharanya Kumaran]([https://github.com/SharanyaKumaran](https://github.com/SharanyaKumaran/Rock-Paper-Scissor-Game)).
